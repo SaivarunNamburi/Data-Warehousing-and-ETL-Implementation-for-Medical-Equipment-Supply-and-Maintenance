@@ -1,0 +1,539 @@
+﻿ItemCode,ItemDescription,PartDescription,IsExpiryDateRequired,MinPrice,MaxPrice,Brand,Status,ExpiryAgeMonths,CurrentStock,SupplierID
+BP0018,Motors/ Micromotors/ Carbon brushes,Flow motor,Yes,500.00,800.00,Common,Active,0.00,0,1
+BP0025,Sensors/ Detectors,O2 Sensor OOM202,Yes,280.00,380.00,Common,Active,0.00,0,2
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Door 22MM Bubble C.Holder 4008SV10,No,800.00,826.80,Fresenius,Active,0.00,3,3
+BP0001,Batteries/ UPS,Battery Pack Fot Tec 7731K,Yes,650.00,1400.00,Nihon Kohden,Active,0.00,2,4
+BP0025,Sensors/ Detectors,DATEX OHMEDA Spo2 FINGER SENSOR Trusignal (TS-F-D),Yes,385.00,393.00,,Active,0.00,10,5
+BP0025,Sensors/ Detectors,FLOW TRANDUCER GE,Yes,450.00,790.00,Ge,Active,0.00,1,6
+BP0003,Bulbs/ Lamps,Bulb 12v 30w,Yes,127.00,130.00,Haag-Streit,Active,0.00,24,7
+BP0001,Batteries/ UPS,Battery AA (Alkaline),Yes,1.85,2.24,Energizer,Active,0.00,595,8
+BP0011,Equipment Specific Parts,Label Remover,No,25.00,60.00,Common,Active,,0,9
+BP0003,Bulbs/ Lamps,Bulb 12v 100w (64623 HLX),Yes,85.00,550.00,Osram,Active,3.00,10,10
+BP0027,Switchs/ Knobs/Buttons,Read Switch,Yes,80.00,85.00,TOSHIBA,Active,0.00,0,11
+BP0011,Equipment Specific Parts,STP Foam Cleaner,Yes,27.50,75.00,Common,Active,0.00,17,12
+BP0011,Equipment Specific Parts,Ambersil - Label Remover,Yes,42.00,250.00,,Active,0.00,13,13
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Swive Air Hose,Yes,600.00,650.00,,Active,0.00,0,14
+BP0018,Motors/ Micromotors/ Carbon brushes,Fresenius 4008S Motor Assy Degassing Complete,Yes,10.00,1000.00,Fresenius,Active,0.00,1,15
+BP0003,Bulbs/ Lamps,PROJECTION LAMP 24V 250W OSRAM,Yes,9.50,10.00,Common,Active,0.00,18,16
+BP0003,Bulbs/ Lamps,Bulb 12V 50W,Yes,185.00,190.00,Leica,Active,0.00,0,17
+BP0027,Switchs/ Knobs/Buttons,Fresenius 4008S Float Switch Complete,Yes,172.04,190.00,Fresenius,Active,0.00,0,18
+BP0026,Solenoids/ Valves/ Gauges,Fresenius 4008S Reliief valve completed,Yes,179.00,197.00,Fresenius,Active,0.00,0,19
+BP0025,Sensors/ Detectors,SPO2 REUSABLE SENSOR PEDIATRIC LNCS DCIP,Yes,700.00,750.00,MASIMO,Active,0.00,4,20
+BP0021,Power Cords/ Adaptors (or any part of it),COMMON ITEM POWER CORD 3 MTR,Yes,19.50,37.00,Common,Active,0.00,21,21
+BP0011,Equipment Specific Parts,EQUIPMENT SPECIFIC PARTS (IN HOUSE),No,10001.00,100000.00,Shimadzu,Active,,5,22
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Male & Female Connector,Yes,2.00,2.50,Accoson,Active,0.00,46,23
+BP0006,Cuffs,X-Large Cuff Adult 1 TB,Yes,10.00,13.00,Critikon/Velcro,Active,0.00,23,24
+BP0012,Filters,Diacap Ultra DF - Online Filter,Yes,300.00,370.00,B.Braun,Active,0.00,10,25
+BP0003,Bulbs/ Lamps,Lamp for Laryngoscope,Yes,26.00,60.00,Welch Allyn,Active,0.00,5,26
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 700Mah,Yes,150.00,200.00,Top,Active,0.00,11,27
+BP0004,Cables/ Lead Wires (or any part of it),NIHON KOHDEN CHEST ELECTROLUDE ADULT COMPLEX,Yes,60.00,92.00,Nihon Kohden,Active,0.00,16,28
+BP0003,Bulbs/ Lamps,BULB 6V 20W,Yes,165.00,241.50,Topcon,Active,0.00,1,29
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 03100,Yes,35.00,55.20,Welch Allyn,Active,0.00,2,30
+BP0003,Bulbs/ Lamps,3.5v Streak Lamp 08200,Yes,35.00,69.00,Welch Allyn,Active,0.00,9,31
+BP0001,Batteries/ UPS,BATTERY SERVO-I MARQUET,Yes,1200.00,1610.00,,Active,0.00,1,32
+BP0001,Batteries/ UPS,BATTERY LITHIUM ION,Yes,650.00,1035.00,PHILIPS,Active,0.00,4,33
+BP0004,Cables/ Lead Wires (or any part of it),Transpac IV Cable HP PHILIPS,Yes,250.00,500.00,Philips,Active,0.00,4,34
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Adult Finger Clip Sensor M1196A,Yes,300.00,700.00,Philips,Active,0.00,0,35
+BP0001,Batteries/ UPS,Battery 6v 2200 mah,Yes,140.00,500.00,Fresenius,Active,0.00,0,36
+BP0003,Bulbs/ Lamps,300 Watts Xenon Lamp,Yes,1330.00,1667.50,Olympus,Active,0.00,0,37
+BP0006,Cuffs,CUFF S/H ADULT (PHILIPS),Yes,90.00,300.00,AGILENT,Active,0.00,13,38
+BP0025,Sensors/ Detectors,Oxygen Sensor,Yes,700.00,1380.00,,Active,0.00,0,39
+BP0004,Cables/ Lead Wires (or any part of it),POWER CORD 5 METER 3 PIN,Yes,27.50,50.00,Erbe,Active,0.00,1,40
+BP0011,Equipment Specific Parts,Power Board,Yes,720.00,1000.00,,Active,0.00,2,41
+BP0004,Cables/ Lead Wires (or any part of it),Cable 5 leadset grabber M1971A,Yes,480.00,715.00,Philips,Active,0.00,1,42
+BP0011,Equipment Specific Parts,MAINTAINANCE SPARE PART (IN HOUSE),Yes,7.00,22000.00,,Active,0.00,3,43
+BP0006,Cuffs,Cuff Connector Female,Yes,3.00,7.00,COLIN,Active,0.00,3,44
+BP0012,Filters,Cotton Filter-20 Inch,Yes,15.00,32.20,Waterman,Active,0.00,20,45
+BP0004,Cables/ Lead Wires (or any part of it),"MINDRAY SPO2 Extension Cable, Sensor 2.4m (0010-20-42594)",Yes,110.00,120.00,Mindray,Active,0.00,23,46
+BP0025,Sensors/ Detectors,SIEMENS SERVO 9000 OXYGEN SENSOR OOM202,Yes,159.85,218.50,Siemens,Active,0.00,0,47
+BP0010,Electronic Components,PETTY CASH,Yes,1.00,500.00,Common,Active,0.00,57,48
+BP0006,Cuffs,Cuff Connector Male,Yes,3.00,6.00,COLIN,Active,0.00,11,49
+BP0001,Batteries/ UPS,Rechargeable Battery,Yes,140.00,168.00,Top,Active,0.00,0,50
+BP0026,Solenoids/ Valves/ Gauges,Vent. Exhalation Valve Assy,Yes,854.00,1708.00,BIRD,Active,0.00,0,51
+BP0026,Solenoids/ Valves/ Gauges,VALVE SPRING SET BIC-4008/S V10,No,100.00,300.00,Fresenius,Active,,8,52
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,"Battery Cover Assembly ,TOP 3300",Yes,257.15,334.10,TOP,Active,0.00,4,53
+BP0025,Sensors/ Detectors,Oxygen Sensor,Yes,1200.00,1380.00,,Active,0.00,0,54
+BP0025,Sensors/ Detectors,Drop Sensor TOP 3300 (89T) T6330522,Yes,718.00,825.70,Top,Active,0.00,0,55
+BP0011,Equipment Specific Parts,900MR858 Electrical Adaptor,Yes,298.80,343.62,Fisher & Paykel,Active,0.00,2,56
+BP0026,Solenoids/ Valves/ Gauges,Solenoid Valve (Chamber),Yes,370.00,425.50,Fresenius,Active,0.00,8,57
+BP0004,Cables/ Lead Wires (or any part of it),ECG 3 LEAD TRUNK CABLE,Yes,300.00,500.00,Philips,Active,0.00,10,58
+BP0025,Sensors/ Detectors,ANASTHESIA,Yes,200.00,275.00,Common,Active,0.00,13,59
+BP0004,Cables/ Lead Wires (or any part of it),Cable 5 lead ECG trunk M1668A,Yes,500.00,650.00,Philips,Active,0.00,1,60
+BP0025,Sensors/ Detectors,Oxygen Sensor (OOM102-1),Yes,300.00,320.00,ULCO,Active,6.00,0,61
+BP0001,Batteries/ UPS,"Rechargeable Battery 11.1V, Mindray iMEC8",No,400.00,450.00,Mindray,Active,,2,62
+BP0012,Filters,Diasafe Plus Filter,No,200.00,242.50,Fresenius,Active,0.00,0,63
+BP0023,PPM/ Service/Maintenance/ Repair Kits,Fresenius 4008S PPM Kit Yearly,No,500.00,530.00,FRESENIUS,Active,0.00,0,64
+BP0003,Bulbs/ Lamps,"Bulb 24 V 150 W, OSRAM",No,6.70,7.60,Osram,Active,0.00,0,65
+BP0006,Cuffs,Cuff Cylindrical 34 Ats,No,400.00,460.00,Common,Active,,0,66
+BP0025,Sensors/ Detectors,SIPAP MACHINE OXYGEN SENSOR FABIAN OOM204,No,450.00,480.00,Acutronic,Active,0.00,0,67
+BP0004,Cables/ Lead Wires (or any part of it),SCHILLER 10 LEAD ECG CABLE BANANA TYPE,No,120.00,150.00,SCHILLER,Active,0.00,0,68
+BP0003,Bulbs/ Lamps,Bulb 12V 100W (64627),No,10.00,11.50,Siemens,Active,,9,69
+BP0011,Equipment Specific Parts,MMS Module,No,2700.00,2800.00,,Active,,3,70
+BP0001,Batteries/ UPS,BATTERY B. BRAUN INFUSOMAT,No,200.00,220.00,B.Braun,Active,,0,71
+BP0025,Sensors/ Detectors,Spo2 Sensor Adult Original DS100A,No,400.00,430.00,Nellcor,Active,,6,72
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),MODULE MONTARA AM-12,No,2000.00,2300.00,,Active,,0,73
+BP0028,Transducers/ Probes,Ultrasound Tranducer,No,1300.00,1400.00,Hewlett Packard,Active,0.00,2,74
+BP0004,Cables/ Lead Wires (or any part of it),ECG TRUNK CABLE PROPAQ LT 3 LEAD,No,100.00,125.00,Welch Allyn,Active,,4,75
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION CABLE TRUSIGNAL GE WITH CONNECTOR,No,100.00,125.00,Datex Ohmeda,Active,,3,76
+BP0026,Solenoids/ Valves/ Gauges,RELEASE VALVE DIAPHRAGM,No,37.00,40.00,ULCO,Active,,15,77
+BP0025,Sensors/ Detectors,Oxygen Cell OOM102,No,260.00,280.00,Acutronic,Active,,0,78
+BP0003,Bulbs/ Lamps,LED BULB OPHTHALMOSCOPE,No,600.00,620.00,Keeler,Active,,4,79
+BP0019,O-Rings/ Belts/ Seals/ Gaskets/ Washers,YELLOW BELT,No,190.00,195.00,,Active,,2,80
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS 5 LEAD TRUNK CABLE ECG M1530A,No,125.00,140.00,Hewlett Packard,Active,0.00,4,81
+BP0025,Sensors/ Detectors,Spo2 finger sensor M1191BL,No,10.00,400.00,AGILENT,Active,0.00,0,82
+BP0003,Bulbs/ Lamps,Bulb Laryngoscope Adult Penlon 55091,No,20.00,23.00,Penlon,Active,0.00,17,83
+BP0011,Equipment Specific Parts,KEYPAD ORALIX,No,200.00,250.00,Common,Active,,1,84
+BP0028,Transducers/ Probes,2Mhz Tranducer (Blue),No,2000.00,2300.00,Oxford Instrument,Active,0.00,1,85
+BP0011,Equipment Specific Parts,Water Trap,No,10.00,115.00,Draeger,Active,,10,86
+BP0002,Blankets/ Mattresses,HUNTLEGLY RIPPLE MATTRESS,No,500.00,650.00,HUNTLEIGH,Active,0.00,0,87
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 FINGER SENSOR NIHON KOHDEN,No,10.00,280.00,Nihon Kohden,Active,,7,88
+BP0003,Bulbs/ Lamps,BULB OSRAM XBOR 300W/60C,No,10.00,2950.00,Karl Storz,Active,,2,89
+BP0004,Cables/ Lead Wires (or any part of it),ECG USB Cable,No,10.00,1200.00,MORTARA,Active,,2,90
+BP0011,Equipment Specific Parts,LED BULB 3.5V Opthalmoscope,No,150.00,170.00,Keeler,Active,,1,91
+BP0025,Sensors/ Detectors,"Spo2 Finger Sensor Adult, Trusat",No,10.00,150.00,Ge,Active,,1,92
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,MATRESS SIDE 9MM CONNECTER,No,10.00,95.00,,Active,,3,93
+BP0013,Heater Elements,"Heater 230-240Vac, 50/60Hz",No,10.00,600.00,,Active,,0,94
+BP0001,Batteries/ UPS,BATTERY CR-1/3N,No,10.00,25.00,,Active,,2,95
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Extension Cable PN:0010-20-42710 or 562A,No,10.00,120.00,,Active,,0,96
+BP0028,Transducers/ Probes,CARDIOTOCOGRAPH Toco Ultrasound Tranducer (Pink),No,10.00,2800.00,Common,Active,0.00,3,97
+BP0025,Sensors/ Detectors,OXYGEN SENSOR,No,10.00,598.00,NEWPORT,Active,0.00,12,98
+BP0011,Equipment Specific Parts,EXPIRATORY CASSETE,No,10.00,6000.00,,Active,,0,99
+BP0003,Bulbs/ Lamps,SOCKET BULB BLUE 130 MAQUET OT LIGHT,No,10.00,420.00,,Active,,7,100
+BP0025,Sensors/ Detectors,DATEX OHMEDA (AESTIVA 5) 02 CELL 6050-0004-110,Yes,250.00,390.00,,Active,6.00,3,101
+BP0004,Cables/ Lead Wires (or any part of it),NIHON KOHDEN Fast Clip Ecg Electrode,No,10.00,65.00,Nihon Kohden,Active,0.00,6,102
+BP0003,Bulbs/ Lamps,BULB MAQUET BLUE 22.8V 90W,No,10.00,225.00,Hanaulux,Active,,0,103
+BP0025,Sensors/ Detectors,SPO finger sensor mindray adult 512F,No,10.00,250.00,Mindray,Active,,0,104
+BP0011,Equipment Specific Parts,"Drop sensor,BRAND:ORALIX, MODEL:OR-1500H",No,100.00,360.00,,Active,,8,105
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION CABLE RC-12,No,125.00,450.00,Masimo,Active,0.00,0,106
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,CHARGERMODULE ASSY,No,9432.00,10000.00,GE,Active,,0,107
+BP0007,Diaphragms/ Pumps,Ultrafiltration Pump,No,2180.25,2500.00,Fresenius,Active,,0,108
+BP0006,Cuffs,Cuff Cylindrical 34 Ats,No,460.00,500.00,Zimmer,Active,,0,109
+BP0006,Cuffs,Cuff Cylindrical 24 Ats,No,460.00,600.00,Zimmer,Active,,2,110
+BP0004,Cables/ Lead Wires (or any part of it),6 lead wire for telemetri transmitter for ge apex PRO part no:421930-001,No,125.00,200.00,Ge,Active,,3,111
+BP0025,Sensors/ Detectors,Temperature Probe 900MR860,No,789.00,850.00,Fisher & Paykel,Active,,4,112
+BP0001,Batteries/ UPS,Rechargeable Battery (TE-112),No,130.00,200.00,Terumo,Active,,4,113
+BP0004,Cables/ Lead Wires (or any part of it),Extension Cable PC-8,No,730.00,800.00,Masimo,Active,,5,114
+BP0001,Batteries/ UPS,Battery LI-ion 14.8V 6.6Ah 98Wh (for Heartstart XL+),No,1850.00,2000.00,PHILIPS,Active,,0,115
+BP0012,Filters,Black Carbon Filter,No,8.00,9.60,Waterman,Active,,1,116
+BP0012,Filters,Cotton Filter-10 Inch,No,5.00,10.00,Waterman,Active,,9,117
+BP0011,Equipment Specific Parts,PLUNGER CLAMP ASSY,No,140.00,200.00,TOP,Active,,2,118
+BP0025,Sensors/ Detectors,Extension finger sensor Mindray PM-60 DB9,No,203.00,215.00,Mindray,Active,,2,119
+BP0001,Batteries/ UPS,BATTERY MINDRAY DUO,No,500.00,800.00,Mindray,Active,,0,120
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Hose heater wire 900mr751,No,320.00,368.00,Fisher & Paykel,Active,,3,121
+BP0004,Cables/ Lead Wires (or any part of it),3 Lead Wire,No,125.00,500.00,Nihon Kohden,Active,,5,122
+BP0001,Batteries/ UPS,Battery Smart Pack,No,425.00,700.00,ALARIS,Active,,15,123
+BP0020,Paddles/ Wheels/ Castors/Brakes,External Paddle for TEC-7621K,No,1166.00,3000.00,Nihon Kohden,Active,,3,124
+BP0025,Sensors/ Detectors,DROP SENSOR TERUMO TE-112,No,1468.00,1500.00,Terumo,Active,,4,125
+BP0020,Paddles/ Wheels/ Castors/Brakes,CASTOR,No,118.00,500.00,Fresenius,Active,,0,126
+BP0001,Batteries/ UPS,Sypu Battery 12V 700Mah(3.6V-600Mah),No,175.00,201.25,B.Braun,Active,0.00,14,127
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Nellcor Interm Cable,No,550.00,900.00,DRAEGER,Active,,1,128
+BP0025,Sensors/ Detectors,Skin Temp Probe (CM-6450Y),No,650.00,900.00,ATOM,Active,,2,129
+BP0028,Transducers/ Probes,Ultrasound Tranducer,No,4500.00,7000.00,Philips,Active,,2,130
+BP0003,Bulbs/ Lamps,Bulb 15v 150W,No,42.00,50.00,Siemens,Active,,1,131
+BP0026,Solenoids/ Valves/ Gauges,BP SET MANUAL Rubber Ball with Control Valve,No,16.50,50.00,ACCOSON,Active,,6,132
+BP0025,Sensors/ Detectors,Exhalation Flow Sensor MT for E360,No,300.00,500.00,NEWPORT,Active,,2,133
+BP0013,Heater Elements,Heater Wire adaptor dual 900MR805 humidifier MR850,No,598.00,700.00,Fisher & Paykel,Active,,1,134
+BP0012,Filters,FILTER ATOM,No,110.00,150.00,Atom,Active,,0,135
+BP0010,Electronic Components,FUSE,No,0.40,20.00,TOSHIBA,Active,,498,136
+BP0004,Cables/ Lead Wires (or any part of it),ECG 10 LEAD MORTARA,No,125.00,300.00,MORTARA,Active,,0,137
+BP0004,Cables/ Lead Wires (or any part of it),5-Lead Trunk Cable,No,200.00,500.00,,Active,,0,138
+BP0025,Sensors/ Detectors,Oxygen Sensor HAMILTON,No,1000.00,2000.00,,Active,,6,139
+BP0011,Equipment Specific Parts,User Interface Assembly,No,680.00,900.00,,Active,,2,140
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Swivel Air Hose With sensor,No,720.00,900.00,,Active,,4,141
+BP0019,O-Rings/ Belts/ Seals/ Gaskets/ Washers,GREEN BELT,No,198.00,300.00,,Active,,3,142
+BP0001,Batteries/ UPS,BATTERY DOPPLER NICOLET,No,150.00,300.00,,Active,,15,143
+BP0012,Filters,Carbon Cartrid filter 10,No,14.00,20.00,,Active,,2,144
+BP0012,Filters,Cartridge filter imicon 10,No,14.00,20.00,,Active,,18,145
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Cover Syringe pump,No,260.00,500.00,,Active,,5,146
+BP0025,Sensors/ Detectors,Spo2 Extension sensor,No,150.00,300.00,Philips,Active,,10,147
+BP0003,Bulbs/ Lamps,Halogen Bulb 6V 30W (Philips),No,96.00,150.00,Philips,Active,,3,148
+BP0001,Batteries/ UPS,Rechargeable Batttery,No,525.00,800.00,Mindray,Active,,1,149
+BP0004,Cables/ Lead Wires (or any part of it),FLOW SENSOR CONECTOR CABLE 8416600,No,943.00,1200.00,DRAEGER,Active,,0,150
+BP0003,Bulbs/ Lamps,HALOGEN Bulb Derung 24v 75w,No,75.00,200.00,,Active,,11,151
+BP0011,Equipment Specific Parts,Battery Oralix,No,300.00,360.00,,Active,,14,152
+BP0011,Equipment Specific Parts,Bulb mercury short ARC HBO 100/2,No,480.00,700.00,OLYMPUS,Active,,6,153
+BP0013,Heater Elements,900MR754 Heater Wire,No,300.00,500.00,Fisher & Paykel,Active,,0,154
+BP0013,Heater Elements,Heater Wire Adaptor 900MR559,No,288.00,500.00,Fisher & Paykel,Active,,10,155
+BP0011,Equipment Specific Parts,LAMB CARTRIDGE ASSY 6 SERIES )(608125-501),No,190.00,500.00,WELCH ALLYN,Active,,0,156
+BP0001,Batteries/ UPS,Lithium ION Battery 3.6V(Red),No,480.00,1000.00,KEELER,Active,,0,157
+BP0003,Bulbs/ Lamps,Halogen Lamp,No,1571.00,2000.00,,Active,,3,158
+BP0001,Batteries/ UPS,Battery Pack BP55,No,110.00,250.00,Top,Active,,11,159
+BP0008,Displays/ Backlights/ Panels,LCD MONITOR,No,380.00,500.00,,Active,,3,160
+BP0004,Cables/ Lead Wires (or any part of it),LEAD CABLE ECG,No,250.00,500.00,Nihon Kohden,Active,,8,161
+BP0004,Cables/ Lead Wires (or any part of it),NIBP INTERCONNECT CABLE,No,55.00,150.00,Philips,Active,,13,162
+BP0001,Batteries/ UPS,Battery 9.6V 1.5Ah,No,150.00,300.00,Terumo,Active,,3,163
+BP0006,Cuffs,CUFF ADULT DURABLE,No,90.00,100.00,WELCH ALLYN,Active,,4,164
+BP0013,Heater Elements,Heater Elements,No,500.00,700.00,,Active,,1,165
+BP0012,Filters,INLET FILTER (PACK OF 6 PCS),No,75.00,100.00,Respironics,Active,,21,166
+BP0004,Cables/ Lead Wires (or any part of it),ECG 5 Lead,No,250.00,400.00,,Active,,6,167
+BP0001,Batteries/ UPS,Rechargeable Battery (for Draeger Evita 4); Valve Regulated Lead Acid 12V 3.4Ah (LC-R123R4PG),No,155.00,300.00,Draeger,Active,,2,168
+BP0004,Cables/ Lead Wires (or any part of it),3 LEAD ECG CABLE,No,150.00,250.00,Nihon Kohden,Active,,1,169
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 2.3Ah,No,280.00,500.00,IVY,Active,,12,170
+BP0013,Heater Elements,High Temperature Filament,No,512.00,600.00,,Active,,5,171
+BP0004,Cables/ Lead Wires (or any part of it),Battery Li-Ion 2.4ah/26.64 wh,No,386.00,500.00,Philips,Active,,0,172
+BP0011,Equipment Specific Parts,FISHER & PAYKEL ELECTRICAL ADAPTOR 900MR858,No,336.00,500.00,Fisher & Paykel,Active,,8,173
+BP0012,Filters,Cartridge filter big blue 20,No,110.00,250.00,Fresenius,Active,,9,174
+BP0001,Batteries/ UPS,Battery Pack 8.4V 8.0 Ah Ge Dash 2500,No,1125.00,1500.00,,Active,,3,175
+BP0025,Sensors/ Detectors,Durasensor Adult Finger Clip Sensor,No,400.00,550.00,Siemens,Active,,1,176
+BP0003,Bulbs/ Lamps,SLIT LAMP BULB TAPCON HALOGEN,No,21.00,30.00,Topcon,Active,,12,177
+BP0012,Filters,Bacteria Filter 10,No,11.00,20.00,Fresenius,Active,,11,178
+BP0012,Filters,Cartridge filter imicon 20,No,20.00,45.00,Fresenius,Active,,0,179
+BP0025,Sensors/ Detectors,Temperature Probe 900MR869,No,789.00,1000.00,Fisher & Paykel,Active,,2,180
+BP0004,Cables/ Lead Wires (or any part of it),10 Lead ECG Cable Kenz 108,No,125.00,143.75,Suzuken,Active,0.00,12,181
+BP0025,Sensors/ Detectors,FISHER&PAYKEL Temperature Probe 900MR560,No,386.00,443.90,Fisher & Paykel,Active,0.00,10,182
+BP0025,Sensors/ Detectors,FISHER&PAYKEL Temperature Probe 900MR860 FOR 850,No,570.00,655.50,Fisher & Paykel,Active,0.00,0,183
+BP0028,Transducers/ Probes,Fresenius 4008S TMP Transducer Complete,No,1750.00,2012.50,FRESENIUS,Active,0.00,2,184
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Hose Red,No,48.00,55.20,Fresenius,Active,0.00,0,185
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Plunger Holder 20ml,No,85.00,97.75,Fresenius,Active,0.00,0,186
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Rotor Board GE AMX4,No,5341.00,6142.15,GE,Active,0.00,0,187
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Fil KV Control Board GE AMX4,No,5002.00,5752.30,GE,Active,0.00,0,188
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),CPU Board GE AMX4,No,5945.40,6837.21,GE,Active,0.00,1,189
+BP0001,Batteries/ UPS,Battery Upgrade Kit,No,3857.69,4436.34,GE,Active,0.00,1,190
+BP0004,Cables/ Lead Wires (or any part of it),Patient Cable,No,450.00,517.50,Suzuken,Active,0.00,0,191
+BP0004,Cables/ Lead Wires (or any part of it),KENZ 106 10 LEAD ECG CABLE,No,800.00,920.00,Suzuken,Active,0.00,7,192
+BP0028,Transducers/ Probes,Toco Tranducer,No,1175.00,1351.25,Hewlett Packard,Active,0.00,3,193
+BP0028,Transducers/ Probes,TOCO Avalon FEM20 Philips,No,4400.00,5060.00,Philips,Active,0.00,0,194
+BP0021,Power Cords/ Adaptors (or any part of it),Plug Top 3 Pin 13amp,No,5.30,6.10,Common,Active,0.00,6,195
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Male Connector,No,4.00,4.60,Accoson,Active,0.00,3,196
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Female Connector,No,2.50,2.88,Accoson,Active,0.00,0,197
+BP0012,Filters,CLEMENT FILTER,No,85.00,97.75,Clements,Active,0.00,9,198
+BP0012,Filters,MADELA Filter Bacterial,No,98.00,112.70,Madela,Active,0.00,4,199
+BP0003,Bulbs/ Lamps,"Bulb,12V/4.2A 50W",No,20.00,23.00,Inami,Active,0.00,0,200
+BP0003,Bulbs/ Lamps,Bulb 6V4.5A,No,138.00,158.70,Inami,Active,0.00,1,201
+BP0003,Bulbs/ Lamps,Bulb 6V 4.5 A,No,215.00,247.25,Nidek,Active,0.00,0,202
+BP0021,Power Cords/ Adaptors (or any part of it),Power Cord 1.8M,No,18.00,20.70,Volex,Active,0.00,0,203
+BP0006,Cuffs,Infant Cuff 2 Tb,No,12.00,13.80,Critikon/Velcro,Active,0.00,37,204
+BP0006,Cuffs,Infant Cuff 1 Tb,No,32.00,36.80,Critikon/Velcro,Active,0.00,45,205
+BP0006,Cuffs,X-Large Cuff Adult 2TB,No,60.00,69.00,Critikon/Velcro,Active,0.00,32,206
+BP0006,Cuffs,Cuff Large Adult 1 Tb,No,16.00,18.40,Critikon/Velcro,Active,0.00,50,207
+BP0006,Cuffs,Cuff Adult 1 Tb,No,30.00,34.50,Colin/Velcro,Active,0.00,4,208
+BP0006,Cuffs,Cuff Adult Large 2 Tb,No,16.00,18.40,Colin/Velcro,Active,0.00,0,209
+BP0006,Cuffs,Cuff Adult 2 Tb,No,33.00,37.95,Colin/Velcro,Active,0.00,23,210
+BP0006,Cuffs,Cuff Child 2 Tb,No,30.00,34.50,Colin/Velcro,Active,0.00,36,211
+BP0008,Displays/ Backlights/ Panels,TOP 3300 FRONT PANEL ASSEMBLY (T6330516(5) ),No,2067.00,2377.05,Top,Active,0.00,0,212
+BP0003,Bulbs/ Lamps,BULB SLIT LAMP 6V 4.5A W/CENTER HAAG STREIT BM900,No,70.00,80.50,Haag-Streit,Active,0.00,0,213
+BP0021,Power Cords/ Adaptors (or any part of it),Power Adaptor,No,80.00,92.00,Omron,Active,0.00,0,214
+BP0021,Power Cords/ Adaptors (or any part of it),POWER DAPTOR HEM 907 OMRON,No,68.00,78.20,Omron,Active,0.00,2,215
+BP0025,Sensors/ Detectors,DRAGER BABYLOG 8000 OXYGEN CELL 6850645 (GOLD PACKING) (OEM OOM201 ),Yes,974.00,1120.10,Draeger,Active,6.00,0,216
+BP0025,Sensors/ Detectors,Oxygen Sensor Capsule,No,80.00,92.00,Draeger,Active,0.00,0,217
+BP0025,Sensors/ Detectors,Oxygen Sensor,No,350.00,402.50,Marquet,Active,0.00,0,218
+BP0025,Sensors/ Detectors,MARQUETTE EXTENSION SPO2 SENSOR,No,300.00,345.00,Marquet,Active,0.00,3,219
+BP0025,Sensors/ Detectors,EXTENAL MEDICAL OXYGEN SENSOR MAX-250E,Yes,440.00,506.00,Viasys Vela,Active,6.00,4,220
+BP0001,Batteries/ UPS,Rechargeable Battery 6V,No,300.00,345.00,Nellcor,Active,0.00,0,221
+BP0001,Batteries/ UPS,Rechargeable Battery 6V,No,65.00,74.75,Nellcor,Active,0.00,0,222
+BP0025,Sensors/ Detectors,MASIMO SPO2 FINGER SENSOR ADULT LNOP DCI,No,580.00,667.00,Ivy,Active,0.00,0,223
+BP0025,Sensors/ Detectors,SPO2 finger sensor child masimo,No,740.00,851.00,Ivy,Active,0.00,0,224
+BP0004,Cables/ Lead Wires (or any part of it),MARQUETTE SPO2 ADAPTOR CABLE HELLIGE,No,1130.00,1299.50,Marquet,Active,0.00,3,225
+BP0004,Cables/ Lead Wires (or any part of it),MASIMO EXTENSIN CABLE M-LNCS-10,No,600.00,690.00,Masimo,Active,0.00,3,226
+BP0003,Bulbs/ Lamps,Bulb PENLON 55092,No,50.00,57.50,Penlon,Active,0.00,6,227
+BP0011,Equipment Specific Parts,Pot Meter,No,105.00,120.75,Jh-Enraf,Active,0.00,0,228
+BP0011,Equipment Specific Parts,"Strap,250X3Cm",No,1980.00,2277.00,Jh-Enraf,Active,0.00,0,229
+BP0003,Bulbs/ Lamps,MADELA LAMP PHOTOTHERAPY 18w/71,No,25.00,28.75,Osram,Active,0.00,47,230
+BP0003,Bulbs/ Lamps,BULB KILLER VISTA 2.8V 6 1011-P-7042,No,95.00,109.25,Keeler,Active,0.00,1,231
+BP0003,Bulbs/ Lamps,Bulb 2.5V,No,175.00,201.25,Keeler,Active,0.00,0,232
+BP0018,Motors/ Micromotors/ Carbon brushes,Fresenius 4008S Stepper Motor,No,3150.00,3622.50,Fresenius,Active,0.00,0,233
+BP0004,Cables/ Lead Wires (or any part of it),Retractile Cable,No,105.00,120.75,Huntleigh,Active,0.00,0,234
+BP0007,Diaphragms/ Pumps,Fresenius 4008S Concentrate Pump Assy Complete,No,2080.00,2392.00,Fresenius,Active,0.00,0,235
+BP0007,Diaphragms/ Pumps,Fresenius 4008S Gear Pump Head,No,1180.00,1357.00,Fresenius,Active,0.00,1,236
+BP0001,Batteries/ UPS,Rechargeable Battery 4.6V 700Mah,No,80.00,92.00,Suzuken,Active,0.00,0,237
+BP0001,Batteries/ UPS,SUZUKENZ 108 RECHARGEABLE BATTERY 12V 1200MAH,No,480.00,552.00,Suzuken,Active,0.00,10,238
+BP0021,Power Cords/ Adaptors (or any part of it),3 Pin Plug Adaptor,No,6.90,7.94,Erbe,Active,0.00,0,239
+BP0004,Cables/ Lead Wires (or any part of it),Ecg Cable,No,600.00,690.00,Nihon Kohden,Active,0.00,0,240
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS LEAD 5 LEAD ECG CABLE M1633A,No,351.00,403.65,Hewlett Packard,Active,0.00,0,241
+BP0004,Cables/ Lead Wires (or any part of it),Adaptor Cable 12Pin to 9Pin,No,1200.00,1380.00,Hewlett Packard,Active,0.00,0,242
+BP0004,Cables/ Lead Wires (or any part of it),Patient Cable,No,350.00,402.50,Nihon Kohden,Active,0.00,0,243
+BP0004,Cables/ Lead Wires (or any part of it),Chest Electrode Paediatric Complete,No,36.30,41.75,Nihon Kohden,Active,0.00,0,244
+BP0004,Cables/ Lead Wires (or any part of it),"PHILIPS 3 Lead Trunk Cable, M1510A",No,125.00,143.75,Hewlett Packard,Active,0.00,4,245
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS 3 LEAD ECG CALBLE M1613A,No,240.00,276.00,Hewlett Packard,Active,0.00,2,246
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION PHILIPS 1900B,No,630.00,724.50,Hewlett Packard,Active,0.00,3,247
+BP0004,Cables/ Lead Wires (or any part of it),3 Lead Cable,No,375.00,431.25,Hewlett Packard,Active,0.00,0,248
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Air Hose 3.5m CRITIKON,No,62.00,71.30,Colin,Active,0.00,0,249
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Tube L Mini,No,58.40,67.16,Colin,Active,0.00,0,250
+BP0003,Bulbs/ Lamps,"Bulb, 6.2V0.5A",No,699.00,803.85,Clements,Active,0.00,0,251
+BP0001,Batteries/ UPS,Rechargeable Battery,No,163.00,187.45,Nihon Kohden,Active,0.00,0,252
+BP0001,Batteries/ UPS,NIHON KOHDEN TEC-7100K BATTERY,No,150.00,172.50,Nihon Kohden,Active,0.00,3,253
+BP0001,Batteries/ UPS,Rechargeable Battery Lcs-2912Nk,No,920.00,1058.00,Nihon Kohden,Active,0.00,11,254
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 1.9Ah,No,450.00,517.50,Nihon Kohden,Active,0.00,0,255
+BP0001,Batteries/ UPS,NIHON KOHDEN 2012NK BATTERY,No,150.00,172.50,Nihon Kohden,Active,0.00,2,256
+BP0001,Batteries/ UPS,Battery 12V 3700mAH,No,1100.00,1265.00,Nihon Kohden,Active,0.00,0,257
+BP0001,Batteries/ UPS,Battery Rechargeable W/Connector 7.2V,No,160.00,184.00,B.Braun,Active,0.00,25,258
+BP0001,Batteries/ UPS,Battery,No,150.00,172.50,B.Braun,Active,0.00,0,259
+BP0001,Batteries/ UPS,Rechargeable Battery 7.2V 1.8Ah,No,159.00,182.85,B.Braun,Active,0.00,0,260
+BP0001,Batteries/ UPS,Battery Ifusomat Bbraun FM,No,160.00,184.00,B.Braun,Active,0.00,9,261
+BP0001,Batteries/ UPS,Rechargeable Battery 9.63V 1.5Ah,No,120.00,138.00,Top,Active,0.00,1,262
+BP0001,Batteries/ UPS,Rechargeable Battery D84:D8712V 900MahTOP 3100 Battery,No,150.00,172.50,Top,Active,0.00,25,263
+BP0001,Batteries/ UPS,Rechargeable Battery,No,145.00,166.75,Top,Active,0.00,0,264
+BP0001,Batteries/ UPS,RECHARGEABLE BATTERY TOP 5300 12V 700MAH,No,217.00,249.55,Top,Active,0.00,49,265
+BP0025,Sensors/ Detectors,Drop Sensor T31 (88t),No,350.00,402.50,Top,Active,0.00,0,266
+BP0001,Batteries/ UPS,DRAGER OXYLOG 2000 BATTERY,No,100.00,115.00,Terumo,Active,0.00,1,267
+BP0001,Batteries/ UPS,Battery,No,150.00,172.50,Terumo,Active,0.00,0,268
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Corner Bracket,No,380.00,437.00,Ameda,Active,0.00,0,269
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Corner Bracket,No,46.00,52.90,Ameda,Active,0.00,23,270
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,AMEDA Tube Grommet,No,90.00,103.50,Ameda,Active,0.00,4,271
+BP0025,Sensors/ Detectors,Drop Sensor Complete Infusomat,No,390.00,448.50,B.Braun,Active,0.00,0,272
+BP0025,Sensors/ Detectors,"Infusomat, Drop Sensor Complete",No,380.00,437.00,B.Braun,Active,0.00,4,273
+BP0025,Sensors/ Detectors,B.BRAUN Drop Sensor Complete 34502629,No,377.00,433.55,B.Braun,Active,0.00,8,274
+BP0013,Heater Elements,Element Replacement Kit,No,132.00,151.80,Fisher & Paykel,Active,0.00,0,275
+BP0013,Heater Elements,Heater Wire,No,400.00,460.00,Fisher & Paykel,Active,0.00,0,276
+BP0026,Solenoids/ Valves/ Gauges,Solenoid Valve - Dual Port,No,179.00,205.85,Fresenius,Active,0.00,4,277
+BP0026,Solenoids/ Valves/ Gauges,Fresenius 4008S Pressure reducing valve,No,348.11,400.33,Fresenius,Active,0.00,1,278
+BP0012,Filters,AIR SHIELD FILTER PACK OF 4 C400 & 450,No,46.85,53.88,Air Shields,Active,0.00,21,279
+BP0012,Filters,Air Filter (Pack Of 4),No,225.00,258.75,Air Shields,Active,0.00,0,280
+BP0012,Filters,Bacterial Filter,No,248.00,285.20,Air Shields,Active,0.00,0,281
+BP0003,Bulbs/ Lamps,BULB HALOGEN 12V 50V (LEICA),No,320.00,368.00,Leica,Active,0.00,3,282
+BP0003,Bulbs/ Lamps,Halogen Bulb 12V 50W,No,290.00,333.50,Leica,Active,0.00,0,283
+BP0003,Bulbs/ Lamps,BULB OSRAM 64261 12V 30W,No,60.00,69.00,Leica,Active,0.00,17,284
+BP0009,Electrodes,Potassium Electrode,Yes,721.60,829.84,Chiron,Active,3.00,0,285
+BP0009,Electrodes,"Electrode,Refill Cassette",Yes,1306.00,1501.90,Chiron,Active,3.00,0,286
+BP0009,Electrodes,"Electrode,Po2",Yes,1724.00,1982.60,Chiron,Active,3.00,0,287
+BP0009,Electrodes,"Electrode,Ph",Yes,600.00,690.00,Chiron,Active,3.00,0,288
+BP0003,Bulbs/ Lamps,"BULB OLYMPUS 6V,10WGE (AX2017)",No,40.00,46.00,Olympus,Active,0.00,11,289
+BP0003,Bulbs/ Lamps,Bulb 6V 20W,No,35.00,40.25,Olympus,Active,0.00,46,290
+BP0003,Bulbs/ Lamps,Bulb 6V 30W (Olympus),No,35.00,40.25,Olympus,Active,0.00,0,291
+BP0001,Batteries/ UPS,Battery AAA (Alkaline),No,1.60,1.84,Energizer,Active,0.00,1,292
+BP0001,Batteries/ UPS,Battery C (Alkaline),No,3.70,4.26,Energizer,Active,0.00,175,293
+BP0001,Batteries/ UPS,Battery D (Alkaline),No,4.10,4.72,Energizer,Active,0.00,49,294
+BP0001,Batteries/ UPS,Battery 9V (Alkaline),No,6.25,7.19,Energizer,Active,0.00,26,295
+BP0001,Batteries/ UPS,CRITIKON 8100 Battery,No,120.00,138.00,Critikon,Active,0.00,4,296
+BP0001,Batteries/ UPS,Battery 6V,No,80.00,92.00,Critikon,Active,0.00,0,297
+BP0001,Batteries/ UPS,Rechargeable Battery 6V,No,80.00,92.00,Welch Allyn,Active,0.00,0,298
+BP0001,Batteries/ UPS,Battery Rech. 3.6V 1.8Ah,No,580.00,667.00,Welch Allyn,Active,0.00,1,299
+BP0001,Batteries/ UPS,Rechargeable Battery 3.5V,No,235.00,270.25,Welch Allyn,Active,0.00,0,300
+BP0003,Bulbs/ Lamps,Halogen Bulb 12V 100W 6834 FO,No,30.00,34.50,Siemens,Active,0.00,12,301
+BP0003,Bulbs/ Lamps,"Bulb,Collimator,12v 100w (Philips 64625) 50Hr",No,7.80,8.97,Siemens,Active,0.00,14,302
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Sample & Reagent Tube Kit,No,940.00,1081.00,Chiron,Active,0.00,0,303
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Pre-Heater Tubing Kit,No,800.00,920.00,Chiron,Active,0.00,0,304
+BP0025,Sensors/ Detectors,OXIBAND ADULT / NEONATAL SENSOR,No,500.00,575.00,Nellcor,Active,0.00,1,305
+BP0025,Sensors/ Detectors,Oxi-Clip Finger Sensor,No,1520.00,1748.00,Invivo,Active,0.00,0,306
+BP0025,Sensors/ Detectors,GRASEBY SOLARIS SPO2 FINGER SENSOR ADULT,No,600.00,690.00,Palco Lab,Active,0.00,2,307
+BP0004,Cables/ Lead Wires (or any part of it),"Ecg 5 Lead , Grabber Set Iec",No,350.00,402.50,Siemens,Active,0.00,0,308
+BP0004,Cables/ Lead Wires (or any part of it),DATEX OHMEDA 3 LEAD WIRE,No,337.00,387.55,Siemens,Active,0.00,3,309
+BP0004,Cables/ Lead Wires (or any part of it),3 LEAD WIRE,No,610.00,701.50,Siemens,Active,0.00,0,310
+BP0004,Cables/ Lead Wires (or any part of it),Spo2 Extension Cable,No,800.00,920.00,Siemens,Active,0.00,0,311
+BP0004,Cables/ Lead Wires (or any part of it),NELLCOR SPO2 Extension Cable Sensor DEC-8,No,138.00,158.70,Nellcor,Active,0.00,6,312
+BP0004,Cables/ Lead Wires (or any part of it),Extension Cable Symphony,No,740.00,851.00,Nellcor,Active,0.00,0,313
+BP0004,Cables/ Lead Wires (or any part of it),NELLCOR SPO2 Extension Cable Original DOC 10,No,138.00,158.70,Nellcor,Active,0.00,4,314
+BP0025,Sensors/ Detectors,"NELLCOR SPO2 FINGER SENSOR Pediatric Spot-Check, Dura-Y Sensor",No,500.00,575.00,Nellcor,Active,0.00,1,315
+BP0025,Sensors/ Detectors,NELLCOR SPO2 FINGER CLIP SPO2 SENSOR DS100A,No,210.00,241.50,Nellcor,Active,0.00,44,316
+BP0025,Sensors/ Detectors,Dura-Y Multi Site Sensor,No,630.00,724.50,Nellcor,Active,0.00,0,317
+BP0025,Sensors/ Detectors,Oxygen Sensor Adult/Neonatal Oxiband,No,500.00,575.00,Nellcor,Active,0.00,0,318
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 08500,No,55.00,63.25,Welch Allyn,Active,0.00,3,319
+BP0003,Bulbs/ Lamps,Bulb,No,250.00,287.50,Welch Allyn,Active,0.00,0,320
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 03000,No,55.00,63.25,Welch Allyn,Active,0.00,8,321
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 03400,No,52.00,59.80,Welch Allyn,Active,0.00,15,322
+BP0003,Bulbs/ Lamps,Bulb WELCH ALLYN 04400,No,55.00,63.25,Welch Allyn,Active,0.00,1,323
+BP0003,Bulbs/ Lamps,Lamp For Mfi/Vdx,No,255.00,293.25,Welch Allyn,Active,0.00,0,324
+BP0003,Bulbs/ Lamps,Bulb Halogen 22.8V 50W,No,65.00,74.75,Heraeus,Active,0.00,0,325
+BP0003,Bulbs/ Lamps,BULB HANAULUX BLUE 22.8V 90W 130/90 NR.56053198 (HERAEUS),No,200.00,230.00,Hanaulux,Active,0.00,8,326
+BP0003,Bulbs/ Lamps,BULB PHILIPS 409843 TYPE 6550 15V 150W 409843,No,27.00,31.05,,Active,0.00,1,327
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Oxytip Interconnect/Universal,No,10.00,11.50,,Active,0.00,0,328
+BP0001,Batteries/ UPS,Rechargeable Battery 8.4V 300Ah,No,280.00,322.00,,Active,0.00,0,329
+BP0001,Batteries/ UPS,AIR SHIELD C100 Rechargeable Battery 6V 2.5Ah,No,80.00,92.00,,Active,0.00,5,330
+BP0001,Batteries/ UPS,Battery 12V,No,300.00,345.00,,Active,0.00,0,331
+BP0001,Batteries/ UPS,Rechargeable Battery 12V,No,120.00,138.00,,Active,0.00,0,332
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,ESHMAN TAPERED CONNECTOR,No,7.50,8.63,,Active,0.00,7,333
+BP0004,Cables/ Lead Wires (or any part of it),300 Series 3 Lead Trunk Cable 3M/10',No,500.00,575.00,,Active,0.00,0,334
+BP0004,Cables/ Lead Wires (or any part of it),DATEX OHMEDA Spo2 Extension Cable (OXY-OL3),No,150.00,172.50,,Active,0.00,3,335
+BP0004,Cables/ Lead Wires (or any part of it),ECG Trunk Cable,No,190.00,218.50,,Active,0.00,0,336
+BP0004,Cables/ Lead Wires (or any part of it),Oxytip Interconnect Cable,No,800.00,920.00,,Active,0.00,0,337
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Extension Cable,No,135.00,155.25,,Active,0.00,0,338
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION CABLE TS-M3,No,290.00,333.50,,Active,0.00,0,339
+BP0004,Cables/ Lead Wires (or any part of it),EXTENSION CABLE TS-N3,No,352.00,404.80,,Active,0.00,2,340
+BP0004,Cables/ Lead Wires (or any part of it),NOVAMETRIX SPO2 CABLE ADAPTOR NOR,No,360.00,414.00,,Active,0.00,5,341
+BP0004,Cables/ Lead Wires (or any part of it),3 Lead Wire Set,No,190.00,218.50,,Active,0.00,0,342
+BP0004,Cables/ Lead Wires (or any part of it),SPACELAB 3 Lead Ecg Trunk Cable,No,345.00,396.75,,Active,0.00,3,343
+BP0004,Cables/ Lead Wires (or any part of it),3 Lead Ecg Shilded Patient Cable For Pcms Only,No,90.00,103.50,,Active,0.00,0,344
+BP0004,Cables/ Lead Wires (or any part of it),5 Lead Ecg Shilded Patient Cable For 90600/90700,No,300.00,345.00,,Active,0.00,0,345
+BP0004,Cables/ Lead Wires (or any part of it),Ecg Cable,No,300.00,345.00,,Active,0.00,0,346
+BP0004,Cables/ Lead Wires (or any part of it),SPO2 Extension Cable,No,180.00,207.00,,Active,0.00,0,347
+BP0025,Sensors/ Detectors,Oxygen Sensor C-1,Yes,145.00,166.75,,Active,6.00,0,348
+BP0025,Sensors/ Detectors,Flow Sensor Q2 W/Eprom,No,3750.00,4312.50,,Active,0.00,1,349
+BP0025,Sensors/ Detectors,Exhalation Sensor (Q3/T3),No,3400.00,3910.00,,Active,0.00,0,350
+BP0025,Sensors/ Detectors,DATEX OHMEDA FLOW SENSOR 1503-3856-000 (PENDEK),No,388.00,446.20,,Active,0.00,7,351
+BP0025,Sensors/ Detectors,Skin Temperature Probe,No,321.00,369.15,,Active,0.00,0,352
+BP0025,Sensors/ Detectors,Oxytip Finger Sensor,No,315.00,362.25,,Active,0.00,0,353
+BP0025,Sensors/ Detectors,Spo2 Finger Sensor,No,645.00,741.75,,Active,0.00,0,354
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Retrokit Power,No,520.00,598.00,,Active,0.00,0,355
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Power PCB Assembly,No,1267.00,1457.05,,Active,0.00,0,356
+BP0025,Sensors/ Detectors,Spo2 Reusable Finger Sensor Oxy-F4-H,No,1250.00,1437.50,,Active,0.00,0,357
+BP0023,PPM/ Service/Maintenance/ Repair Kits,PM KIT As/5,No,1000.00,1150.00,,Active,0.00,0,358
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Display Board Pcb,No,1000.00,1150.00,,Active,0.00,0,359
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Control PCB Assembly,No,1267.00,1457.05,,Active,0.00,0,360
+BP0018,Motors/ Micromotors/ Carbon brushes,Fan Motor,No,1800.00,2070.00,,Active,0.00,0,361
+BP0025,Sensors/ Detectors,NOVAMETRIX SPO2 PROBE FINGER ADULT,No,950.00,1092.50,,Active,0.00,0,362
+BP0011,Equipment Specific Parts,Suction Jar Shatterproof Plastic,No,1350.00,1552.50,,Active,0.00,0,363
+BP0011,Equipment Specific Parts,CLEMENT Sp BLUE Inlet Nipple,No,35.00,40.25,,Active,0.00,3,364
+BP0028,Transducers/ Probes,Bd'S Pressure Tranducer P23Xl-1,No,3750.00,4312.50,,Active,0.00,0,365
+BP0028,Transducers/ Probes,ARGON (BD) Pressure Transducer P23xl,No,1500.00,1725.00,,Active,0.00,1,366
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,ESHMAN SPARE LID FOR RECEIVED JAR,No,480.00,552.00,,Active,0.00,0,367
+BP0025,Sensors/ Detectors,DYNAL Skin Temp Probe,No,300.00,345.00,ATOM,Active,0.00,0,368
+BP0025,Sensors/ Detectors,PHILIPS SPO2 FINGER SENSOR CHILE M1193A,No,650.00,747.50,AGILENT,Active,0.00,2,369
+BP0004,Cables/ Lead Wires (or any part of it),8-12 Pin Spo2 Sensor Adaptor Cable,No,250.00,287.50,AGILENT,Active,0.00,0,370
+BP0004,Cables/ Lead Wires (or any part of it),3-Lead Ecg Patient Trunk Cable Aam,No,390.00,448.50,AGILENT,Active,0.00,0,371
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS 3 LEAD ECG MINI CLIP M1608,No,208.00,239.20,AGILENT,Active,0.00,1,372
+BP0006,Cuffs,Cuff Cylindrical 18 Ats,No,460.00,529.00,Zimmer,Active,0.00,2,373
+BP0006,Cuffs,Cuff Cylindrical 30 Ats,No,460.00,529.00,Zimmer,Active,0.00,3,374
+BP0023,PPM/ Service/Maintenance/ Repair Kits,Maintenance Kit 3000H,No,1163.00,1337.45,SIEMENS,Active,0.00,0,375
+BP0023,PPM/ Service/Maintenance/ Repair Kits,Maintenance Kit 5000H,No,990.00,1138.50,SIEMENS,Active,0.00,0,376
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Air Module,No,10500.00,12075.00,SIEMENS,Active,0.00,0,377
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,CONNECTOR SPRILOG SENSOR,No,104.38,120.04,Draeger,Active,0.00,13,378
+BP0006,Cuffs,Adult Cuff,No,79.00,90.85,CRITIKON,Active,0.00,0,379
+BP0006,Cuffs,Small Adult Cuff,No,166.90,191.94,CRITIKON,Active,0.00,0,380
+BP0006,Cuffs,Child Cuff,No,54.00,62.10,CRITIKON,Active,0.00,3,381
+BP0019,O-Rings/ Belts/ Seals/ Gaskets/ Washers,O-Ring,No,11.00,12.65,Ulco,Active,0.00,2,382
+BP0019,O-Rings/ Belts/ Seals/ Gaskets/ Washers,Seal/Bodok,No,8.00,9.20,Ulco,Active,0.00,2,383
+BP0011,Equipment Specific Parts,MK4 STAINLESS STELL MEDICAL AIR,No,65.00,74.75,Ulco,Active,0.00,23,384
+BP0011,Equipment Specific Parts,Silencer,No,2.40,2.76,Ulco,Active,0.00,0,385
+BP0011,Equipment Specific Parts,1/2 Clip,No,1.10,1.27,Ulco,Active,0.00,0,386
+BP0011,Equipment Specific Parts,9/16 Clip,No,1.30,1.50,Ulco,Active,0.00,0,387
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,COLIN BP 8800 Front Case,No,733.00,842.95,Colin,Active,0.00,1,388
+BP0011,Equipment Specific Parts,COLIN Luer Lock Fitting,No,59.70,68.66,Colin,Active,0.00,14,389
+BP0006,Cuffs,Cuff Complete Adult,No,12.50,14.38,ACCOSON,Active,0.00,0,390
+BP0006,Cuffs,Cuff Complete Pead ACCOSON,No,10.00,11.50,ACCOSON,Active,0.00,3,391
+BP0006,Cuffs,Bp Cuff Bandage Adult Acoson,No,10.00,11.50,ACCOSON,Active,0.00,0,392
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),E Module,No,950.00,1092.50,B.BRAUN,Active,0.00,0,393
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),N MODULE (220-240V) B BRAUN 34506683,No,400.00,460.00,B.BRAUN,Active,0.00,2,394
+BP0015,Keyboards/ Keypads/ Remotes,Foil Keyboard BBRAUN,No,200.00,230.00,B.BRAUN,Active,0.00,1,395
+BP0001,Batteries/ UPS,RECHARGEABLE BATTERY ATOM 12V,No,475.00,546.25,Atom,Active,0.00,0,396
+BP0003,Bulbs/ Lamps,MEDELA LAMP BODY MADELA,No,1495.00,1719.25,MEDELA,Active,0.00,3,397
+BP0003,Bulbs/ Lamps,MEDELA Lamp Grid MADELA,No,685.00,787.75,MEDELA,Active,0.00,6,398
+BP0003,Bulbs/ Lamps,PHOTHOTHERAPY LAMP PHOTOTHERAPY TL20/52,No,21.00,24.15,ATOM/philips,Active,0.00,54,399
+BP0003,Bulbs/ Lamps,PHOTOTHERAPY LAMP TLD 30/03,No,26.00,29.90,ATOM/philips,Active,0.00,250,400
+BP0003,Bulbs/ Lamps,PHOTOTHERAPY LAMP 40/03,No,31.00,35.65,ATOM/philips,Active,0.00,25,401
+BP0025,Sensors/ Detectors,Po Finger Clip Sensor,No,323.00,371.45,OHMEDA,Active,0.00,0,402
+BP0025,Sensors/ Detectors,Po Ohmeda Flex 11 Sensor,No,300.00,345.00,OHMEDA,Active,0.00,0,403
+BP0025,Sensors/ Detectors,Ear Clip Sensor,No,150.00,172.50,OHMEDA,Active,0.00,0,404
+BP0007,Diaphragms/ Pumps,A MODULE B Braun Pump,No,712.00,818.80,B.BRAUN,Active,0.00,1,405
+BP0001,Batteries/ UPS,Battery,No,400.00,460.00,SIEMENS,Active,0.00,0,406
+BP0011,Equipment Specific Parts,TOP 3300 HANDLE MAIN UNIT (T6335602(2)),No,76.00,87.40,TOP,Active,0.00,0,407
+BP0011,Equipment Specific Parts,TOP 5100 Power Regulator KWS10-15,No,250.00,287.50,TOP,Active,0.00,7,408
+BP0011,Equipment Specific Parts,TOP 5300 Base WITH HANDLE T6535604,No,277.00,318.55,TOP,Active,0.00,1,409
+BP0011,Equipment Specific Parts,Slider Subass,No,441.00,507.15,TOP,Active,0.00,0,410
+BP0011,Equipment Specific Parts,TOP 5300 Clamp Unit T653-044,No,190.00,218.50,TERUMO,Active,0.00,1,411
+BP0011,Equipment Specific Parts,Boot Unit,No,122.00,140.30,TERUMO,Active,0.00,0,412
+BP0011,Equipment Specific Parts,Dial Unit,No,110.00,126.50,TERUMO,Active,0.00,14,413
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Slider Cover Unit,No,410.00,471.50,TERUMO,Active,0.00,0,414
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Sypu Lower Case,No,252.00,289.80,TERUMO,Active,0.00,0,415
+BP0011,Equipment Specific Parts,Universal Clamp Complete,No,372.00,427.80,B.BRAUN,Active,0.00,1,416
+BP0011,Equipment Specific Parts,Drive Unit Complete,No,1330.00,1529.50,B.BRAUN,Active,0.00,0,417
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Sypu A Module(Battery R/Able Power Pack & Board),No,1500.00,1725.00,B.BRAUN,Active,0.00,0,418
+BP0001,Batteries/ UPS,Rechargeable Battery,No,80.00,92.00,Akas,Active,0.00,0,419
+BP0003,Bulbs/ Lamps,Bulb FML2TEX-N (For Eye Treadment Chair),No,75.00,86.25,OPTION,Active,0.00,0,420
+BP0023,PPM/ Service/Maintenance/ Repair Kits,PPM KIT 10K FOR 10.4 GUI,No,900.00,1035.00,NELLCOR,Active,0.00,0,421
+BP0004,Cables/ Lead Wires (or any part of it),PHYSIO CONTROL LP9B 3 lead Trunk Cable,No,150.00,172.50,PHYSIO CONTROL,Active,0.00,10,422
+BP0011,Equipment Specific Parts,Recorder Assy,No,3100.00,3565.00,PHYSIO CONTROL,Active,0.00,0,423
+BP0011,Equipment Specific Parts,PHYSIO CONTROL LP9B Printer Roller Assy 21330-000656,No,490.00,563.50,PHYSIO CONTROL,Active,0.00,2,424
+BP0003,Bulbs/ Lamps,BULB HITACHI HALOGEN LAMP 12V 20W P/N:705-0840,No,80.00,92.00,HITACHI,Active,0.00,3,425
+BP0001,Batteries/ UPS,BATTERY OMRON 4.8V 1.6 AH,No,120.00,138.00,Omron,Active,0.00,18,426
+BP0003,Bulbs/ Lamps,Xenon Lamp 300,No,3000.00,3450.00,Fujinon,Active,0.00,0,427
+BP0003,Bulbs/ Lamps,OL BULB HALOGEN 24V 150W W/O REFLECTOR,No,26.00,29.90,Eschman,Active,0.00,21,428
+BP0003,Bulbs/ Lamps,Bulb Halogen 12V 100W Reflector,No,12.00,13.80,CARL ZEISS,Active,0.00,0,429
+BP0003,Bulbs/ Lamps,Mic Bulb Halogen 12V 100W Reflector,No,18.00,20.70,CARL ZEISS,Active,0.00,0,430
+BP0003,Bulbs/ Lamps,Mic Lamp Regulation Board,No,350.00,402.50,CARL ZEISS,Active,0.00,0,431
+BP0003,Bulbs/ Lamps,Halogen Bulb 6V 30W(Carl Zies),No,105.00,120.75,CARL ZEISS,Active,0.00,2,432
+BP0011,Equipment Specific Parts,"OLYMPUS CH-120V,30WSB",No,65.00,74.75,OLYMPUS,Active,0.00,4,433
+BP0001,Batteries/ UPS,Battery for physio control Defibrillator LP9B,No,450.00,517.50,PHYSIO CONTROL,Active,0.00,0,434
+BP0001,Batteries/ UPS,Life Pack Nicd Battery,No,450.00,517.50,PHYSIO CONTROL,Active,0.00,0,435
+BP0001,Batteries/ UPS,Rechargeable Battery,No,1100.00,1265.00,PHYSIO CONTROL,Active,0.00,0,436
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Main Pcb Assembly,No,5500.00,6325.00,PHYSIO CONTROL,Active,0.00,0,437
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 4.5Ah,No,300.00,345.00,HEWLETT PACKARD,Active,0.00,0,438
+BP0001,Batteries/ UPS,Battery Ups,No,145.00,166.75,UNICOM,Active,0.00,0,439
+BP0007,Diaphragms/ Pumps,Diaphragm (Silicon),No,50.00,57.50,SECHRIST,Active,0.00,24,440
+BP0015,Keyboards/ Keypads/ Remotes,Keyboard Panel,No,450.00,517.50,SUZUKEN,Active,0.00,0,441
+BP0011,Equipment Specific Parts,Thermal Head,No,800.00,920.00,SUZUKEN,Active,0.00,0,442
+BP0011,Equipment Specific Parts,Printer Roller Spool,No,35.00,40.25,SUZUKEN,Active,0.00,0,443
+BP0011,Equipment Specific Parts,"Pb,Inverter",No,16.00,18.40,ATOM,Active,0.00,0,444
+BP0003,Bulbs/ Lamps,BULB HEINE X.04.88.104 6V BINOCULAR,No,255.00,293.25,Iris Medical,Active,0.00,2,445
+BP0011,Equipment Specific Parts,Infant Humidifier Chamber,No,860.00,989.00,Fisher & Paykel,Active,0.00,0,446
+BP0011,Equipment Specific Parts,FISHER & PAYKEL ELECTRICAL ADAPTOR 900MR558,No,360.00,414.00,Fisher & Paykel,Active,0.00,3,447
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,FISHER&PAYKEL Hose Heater Wire 900MR751,No,378.00,434.70,Fisher & Paykel,Active,0.00,8,448
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,FISHER & PAYKEL HOSE HEATER WIRE ASSY 900MR510,No,230.00,264.50,Fisher & Paykel,Active,0.00,0,449
+BP0004,Cables/ Lead Wires (or any part of it),VALLEYLAB Cable Bipolar Active,No,450.00,517.50,VALLEYLAB,Active,0.00,3,450
+BP0004,Cables/ Lead Wires (or any part of it),Cable Bipolar Forceps,No,499.00,573.85,VALLEYLAB,Active,0.00,0,451
+BP0004,Cables/ Lead Wires (or any part of it),VALLEYLAB ESU HANDSEITCHING-SETCH PENCIL E2100,No,310.00,356.50,VALLEYLAB,Active,0.00,2,452
+BP0025,Sensors/ Detectors,Finger Probe Spo2 Sensor,No,580.00,667.00,CRITICARE,Active,0.00,0,453
+BP0001,Batteries/ UPS,Nicked Rechargeable Battery 16Vdc 2.5Ah,No,140.00,161.00,Propaq,Active,0.00,0,454
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Holder Bulb Assy,No,260.00,299.00,OHMEDA,Active,0.00,0,455
+BP0004,Cables/ Lead Wires (or any part of it),Oxylead Interconnect Cable,No,45.50,52.33,OHMEDA,Active,0.00,0,456
+BP0025,Sensors/ Detectors,Spo2 Finger Sensor,No,204.50,235.18,SIMED,Active,0.00,0,457
+BP0025,Sensors/ Detectors,"Spo2 Probe,Neonate,Stater Kit",No,1346.00,1547.90,Datascope,Active,0.00,0,458
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,"Hose Connect, Trio",No,480.00,552.00,Datascope,Active,0.00,0,459
+BP0006,Cuffs,Cuff Infant,No,15.00,17.25,Datascope,Active,0.00,25,460
+BP0011,Equipment Specific Parts,NIHON KOHDEN Paper Shaft AAA-20473 (20013),No,50.00,57.50,Nihon Kohden,Active,0.00,3,461
+BP0011,Equipment Specific Parts,NIHON KOHDEN 6851K Strap 38cm,No,3.60,4.14,Nihon Kohden,Active,0.00,10,462
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Cover For Battery,No,175.00,201.25,HUNTLEIGH,Active,0.00,1,463
+BP0025,Sensors/ Detectors,NOVAMETRIX SPO2 FINGER SENSOR Y,No,620.00,713.00,NOVAMETRIX,Active,0.00,3,464
+BP0025,Sensors/ Detectors,"Spo2 Finger Sensor, 8744",No,10.00,11.50,NOVAMETRIX,Active,0.00,0,465
+BP0025,Sensors/ Detectors,Reusable Oxysnap Finger Sensor,No,1520.30,1748.35,NOVAMETRIX,Active,0.00,0,466
+BP0025,Sensors/ Detectors,Spo2 Adult Finger Tranducer,No,350.00,402.50,Hewlett Packard,Active,0.00,3,467
+BP0025,Sensors/ Detectors,Pead Spo 2 Sensor,No,450.00,517.50,Hewlett Packard,Active,0.00,0,468
+BP0025,Sensors/ Detectors,SPO2 Finger Sensor Adult,No,900.00,1035.00,Hewlett Packard,Active,0.00,0,469
+BP0001,Batteries/ UPS,Rechargeable Battery 12V 1.2Ah,No,80.00,92.00,BAXTER,Active,0.00,0,470
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,"Upper Casing,Clamp&Sheet",No,671.00,771.65,TOP,Active,0.00,0,471
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Power Supply Regulator,No,250.00,287.50,TOP,Active,0.00,0,472
+BP0002,Blankets/ Mattresses,RIPPLE MATTRESS INDIVIDUAL CELL,No,560.00,644.00,HUNTLEIGH,Active,0.00,0,473
+BP0007,Diaphragms/ Pumps,Diapharm,No,205.00,235.75,HUNTLEIGH,Active,0.00,14,474
+BP0011,Equipment Specific Parts,Silencer Bag Assy,No,75.00,86.25,HUNTLEIGH,Active,0.00,7,475
+BP0023,PPM/ Service/Maintenance/ Repair Kits,"5K PREVENTIVE MAINTENANCE KIT,VELA",No,1305.00,1500.75,Viasys Vela,Active,0.00,0,476
+BP0025,Sensors/ Detectors,Finger Probe Adult 1.5Ft/Adult Reuble Oximeter Sensor,No,600.00,690.00,DOLPHIN,Active,0.00,0,477
+BP0004,Cables/ Lead Wires (or any part of it),Extension Cable 8Ft(2.4M),No,570.00,655.50,DOLPHIN,Active,0.00,0,478
+BP0001,Batteries/ UPS,Rechargeable Battery,No,260.00,299.00,DATASCOPE,Active,0.00,0,479
+BP0001,Batteries/ UPS,Battery,No,300.00,345.00,DATASCOPE,Active,0.00,0,480
+BP0004,Cables/ Lead Wires (or any part of it),PHILIPS Spo2 Sensor Adapter Cable M1940A,No,328.00,377.20,VIRDIA,Active,0.00,2,481
+BP0001,Batteries/ UPS,Rechargeable Battery 6V 12Ah,No,80.00,92.00,GRASEBY,Active,0.00,12,482
+BP0003,Bulbs/ Lamps,PHOTHOTHERAPY LAMP BULB ULTRAVIOLET UV-AL 100W/13,No,290.00,333.50,Daavlin,Active,0.00,0,483
+BP0003,Bulbs/ Lamps,PHOTHOTHERAPY LAMP BULB ULTRAVIOLET UV-B TL 100W/12,No,350.00,402.50,Daavlin,Active,0.00,0,484
+BP0026,Solenoids/ Valves/ Gauges,RP VALVE BODY ASSEMBLY,No,80.00,92.00,HUNTLEIGH,Active,0.00,0,485
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Handle Bracket Set,No,175.00,201.25,AEROCARE,Active,0.00,0,486
+BP0011,Equipment Specific Parts,Compressor,No,600.00,690.00,AEROCARE,Active,0.00,0,487
+BP0011,Equipment Specific Parts,Air Reservoir,No,55.00,63.25,Bantex,Active,0.00,0,488
+BP0007,Diaphragms/ Pumps,Pumping Set,No,63.60,73.14,Bantex,Active,0.00,0,489
+BP0013,Heater Elements,Element Heating,No,340.00,391.00,Haraeus,Active,0.00,1,490
+BP0011,Equipment Specific Parts,Sl 6V 20W Toeimeter,No,288.00,331.20,NIDEK,Active,0.00,0,491
+BP0003,Bulbs/ Lamps,Bulb 12 V 30 W,No,24.00,27.60,Nikon,Active,0.00,5,492
+BP0004,Cables/ Lead Wires (or any part of it),Patient Extension Cable 8',No,580.00,667.00,IVY,Active,0.00,4,493
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),"Pcb,Display",No,100.00,115.00,JH-ENRAF,Active,0.00,0,494
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),"Pcb,Main",No,38.00,43.70,JH-ENRAF,Active,0.00,0,495
+BP0011,Equipment Specific Parts,PARI Automizer Upper Section,No,180.00,207.00,PARI,Active,0.00,1,496
+BP0011,Equipment Specific Parts,Nozzle Complete,No,280.00,322.00,PARI,Active,0.00,0,497
+BP0006,Cuffs,Cuff Single Tube Child,No,30.00,34.50,Common,Active,0.00,12,498
+BP0026,Solenoids/ Valves/ Gauges,Terumo Vacuum Valve,No,1090.00,1253.50,TERUMO,Active,0.00,0,499
+BP0027,Switchs/ Knobs/Buttons,Sheet Switch COLIN BP8800,No,450.00,517.50,COLIN,Active,0.00,5,500
+BP0001,Batteries/ UPS,Battery 7.2V,No,80.00,92.00,Seca,Active,0.00,0,501
+BP0001,Batteries/ UPS,IP BATTERY 34508210,No,80.00,92.00,Common,Active,0.00,0,502
+BP0003,Bulbs/ Lamps,BULB KEELER OPTHALMOSCOPE BULB 2.8V,No,105.00,120.75,Common,Active,0.00,5,503
+BP0014,Hoses/ Tubings/ Adaptors/ Couplers/ Connectors/ Pipes,Tube Pressure C/W Rubber,No,145.00,166.75,Common,Active,0.00,12,504
+BP0001,Batteries/ UPS,Battery 6V,No,80.00,92.00,Mindray,Active,0.00,0,505
+BP0001,Batteries/ UPS,BATTERY MINDRAY PM600 LC-R061R3P,No,75.00,86.25,Mindray,Active,0.00,14,506
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,Case Bottom,No,328.00,377.20,AGILENT,Active,0.00,0,507
+BP0028,Transducers/ Probes,Probe Aga,No,2132.00,2451.80,HITACHI,Active,0.00,0,508
+BP0022,Power Supply Unit (PCB or Module)/ Transfomer,Power Convertion Board,No,5500.00,6325.00,PHYSIO CONTROL,Active,0.00,0,509
+BP0001,Batteries/ UPS,Rechargeable Battery,No,1100.00,1265.00,S&W/Innomed,Active,0.00,0,510
+BP0011,Equipment Specific Parts,Manometer With Pointer,No,498.50,573.28,Sechrist,Active,0.00,0,511
+BP0023,PPM/ Service/Maintenance/ Repair Kits,Ppm Kit,No,2850.00,3277.50,ULCO,Active,0.00,0,512
+BP0028,Transducers/ Probes,O2 STAINLESS STEEL OXY PROBE REMOTE O2,No,65.00,74.75,ULCO,Active,0.00,10,513
+BP0010,Electronic Components,Patient Relay,No,300.00,345.00,HEWLETT PACKARD,Active,0.00,0,514
+BP0024,Printed Circuit Boards (PCB; Other than Power Supply),Mother Board Unit,No,38.00,43.70,SUZUKEN,Active,0.00,0,515
+BP0001,Batteries/ UPS,Battery 9.6V 1100mAH w/out connector,No,80.00,92.00,Fukuda,Active,0.00,0,516
+BP0001,Batteries/ UPS,Battery for Entral feeding,No,80.00,92.00,KANGAROO,Active,0.00,8,517
+BP0010,Electronic Components,Relay Solid State,No,40.00,46.00,BAXTER,Active,0.00,0,518
+BP0004,Cables/ Lead Wires (or any part of it),Patient Cable,No,276.10,317.52,BAXTER,Active,0.00,0,519
+BP0005,Casing/ Covers/ Brackets/ Latches/ Part Holders,DATASCOPE BEZEL FRONT HIGHT ASSEMBLY 0380-00-0359-04,No,388.00,446.20,Datascope,Active,0.00,0,520
+BP0004,Cables/ Lead Wires (or any part of it),Spo2 Adaptor Cable,No,1800.00,2070.00,S&W,Active,0.00,0,521
+BP0012,Filters,"AMEDA, 7 Shut Off Filter",No,7.00,8.05,"AMEDA, Egnell",Active,0.00,45,522
+BP0004,Cables/ Lead Wires (or any part of it),Extension Cable,No,670.00,770.50,NOVAMETRIX,Active,0.00,0,523
+BP0004,Cables/ Lead Wires (or any part of it),Connector Cable (Db-9/Oxysnap),No,350.00,402.50,NOVAMETRIX,Active,0.00,0,524
+BP0023,PPM/ Service/Maintenance/ Repair Kits,SECHRIST Ppm Service Kit,No,10.00,11.50,SECHRIST,Active,0.00,1,525
+BP0017,Membranes,Membrane Sheet,No,70.00,80.50,TOP,Active,0.00,0,526
+BP0003,Bulbs/ Lamps,Bulb OSRAM 5001BA15s 6V 10W,No,24.00,27.60,LEITZ,Active,0.00,7,527
+BP0003,Bulbs/ Lamps,Bulb 24V 40W,No,77.00,88.55,DAI-ICHE,Active,0.00,0,528
+BP0003,Bulbs/ Lamps,Bulb Halogen 50W 24V,No,18.00,20.70,ANGENIEUX/OSRAM,Active,0.00,0,529
+BP0003,Bulbs/ Lamps,Bulb 24v 100w,No,50.00,57.50,Angineuze,Active,0.00,0,530
+BP0011,Equipment Specific Parts,Ic,No,182.00,209.30,HEWLETT PACKARD,Active,0.00,1,531
+BP0011,Equipment Specific Parts,AIR SHIELD Grommet Access,No,120.00,138.00,Air Shields,Active,0.00,7,532
+BP0011,Equipment Specific Parts,AIR SHIELD Iris Sleeve (Pack Of 4),No,18.00,20.70,Air Shields,Active,0.00,18,533
+BP0011,Equipment Specific Parts,Htc Protection Sheild For Hps 101,No,18.00,20.70,Chemopharm,Active,0.00,0,534
+BP0027,Switchs/ Knobs/Buttons,MEDELA DOUBLE ROCKER SWITCH MADELA,No,70.00,80.50,Chemopharm,Active,0.00,1,535
+BP0016,Mechanical Components,MEDELA SQUARE NUT MADELA,No,18.00,20.70,Milestone,Active,0.00,1,536
+BP0020,Paddles/ Wheels/ Castors/Brakes,CASTOR WHEEL WITH SCREW HEAD 2,No,3.50,4.03,Press Mate,Active,0.00,0,537
+BP0028,Transducers/ Probes,CARDIOTOCOGRAPH 1.5Mhz Ultrasound Transducer (Yellow),No,2398.00,2757.70,Oxford Instrument,Active,0.00,2,538

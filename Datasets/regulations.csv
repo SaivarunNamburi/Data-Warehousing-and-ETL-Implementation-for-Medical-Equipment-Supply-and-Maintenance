@@ -1,0 +1,31 @@
+﻿RegulationID,RegulationName,Description,Category,EffectiveDate,ExpirationDate
+R001,Medical Equipment Maintenance - 2023,Standards for medical equipment maintenance in 2023,Maintenance,1/1/2023,12/31/2023
+R002,Supply Chain Guidelines - 2023,Guidelines for medical equipment supply in 2023,Supply,3/15/2023,12/31/2023
+R003,Equipment Maintenance Best Practices,Best practices for medical equipment maintenance,Maintenance,5/10/2021,12/31/2024
+R004,Procurement Regulations - 2022,Regulations for equipment procurement in 2022,Supply,2/1/2022,12/31/2023
+R005,Maintenance Reporting Standards,Standards for reporting maintenance activities,Maintenance,12/15/2020,12/31/2025
+R006,Equipment Supply Code of Ethics,Code of ethics for medical equipment suppliers,Supply,6/20/2019,12/31/2023
+R007,Equipment Inspection Guidelines,Guidelines for inspecting medical equipment,Maintenance,3/1/2018,12/31/2023
+R008,Procurement Transparency Act,Act promoting transparency in equipment procurement,Supply,8/1/2020,12/31/2024
+R009,Equipment Calibration Standards,Standards for calibrating medical equipment,Maintenance,11/15/2019,12/31/2025
+R010,Supply Chain Sustainability Practices,Sustainability practices for equipment supply,Supply,4/5/2021,12/31/2023
+R011,Maintenance Records Retention Policy,Policy for retaining maintenance records,Maintenance,12/1/2017,12/31/2024
+R012,Supplier Code of Conduct,Code of conduct for medical equipment suppliers,Supply,2/15/2019,12/31/2023
+R013,Equipment Safety Regulations,Regulations ensuring the safety of medical equipment,Maintenance,9/10/2020,12/31/2025
+R014,Procurement Quality Assurance Standards,Standards for ensuring quality in equipment procurement,Supply,2/15/2021,12/31/2023
+R015,Preventive Maintenance Standards,Standards for preventive maintenance of equipment,Maintenance,7/20/2019,12/31/2025
+R016,Equipment Supplier Certification,Certification requirements for equipment suppliers,Supply,4/1/2022,12/31/2023
+R017,Emergency Equipment Maintenance Policy,Policy for emergency maintenance of equipment,Maintenance,11/5/2021,12/31/2025
+R018,Procurement Vendor Selection Criteria,Criteria for selecting vendors for equipment procurement,Supply,3/20/2022,12/31/2023
+R019,Equipment Disposal Regulations,Regulations for the disposal of medical equipment,Maintenance,8/10/2022,12/31/2024
+R020,Supplier Vendor Evaluation Criteria,Criteria for evaluating vendors supplying equipment,Supply,1/10/2022,12/31/2023
+R021,Equipment User Training Guidelines,Guidelines for user training on equipment,Maintenance,4/25/2020,12/31/2025
+R022,Inventory Management Policy,Policy for managing medical equipment inventory,Maintenance,9/1/2021,12/31/2024
+R023,Supplier Risk Assessment Framework,Framework for assessing supplier risks,Supply,6/15/2023,12/31/2023
+R024,Equipment Lifecycle Management,Guidelines for managing the lifecycle of equipment,Maintenance,1/15/2020,12/31/2025
+R025,Procurement Cost-Benefit Analysis,Guidelines for conducting cost-benefit analysis,Supply,7/1/2022,12/31/2023
+R026,Equipment Recall Procedures,Procedures for handling equipment recalls,Maintenance,7/10/2021,12/31/2025
+R027,Supplier Contract Compliance,Guidelines for ensuring supplier contract compliance,Supply,10/5/2019,12/31/2023
+R028,Equipment Calibration Verification,Procedures for verifying equipment calibration,Maintenance,9/15/2018,12/31/2025
+R029,Procurement Cost Control Guidelines,Guidelines for controlling equipment procurement costs,Supply,6/30/2018,12/31/2024
+R030,Equipment Disinfection Protocols,Protocols for disinfecting medical equipment,Maintenance,3/5/2021,12/31/2024

@@ -1,0 +1,54 @@
+{
+  "itemId" : "_qAxG4H5-Ee6QVcLMKIQJDA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_xEkDIH5lEe6CKLVXBlzceQ",
+    "parameterList" : [ {
+      "id" : "_xFR00X5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Schema"
+    }, {
+      "id" : "_xFR00n5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Port"
+    }, {
+      "id" : "_xFR0035lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Database"
+    }, {
+      "id" : "_xFR01H5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Login"
+    }, {
+      "id" : "_xFR01X5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Server"
+    }, {
+      "id" : "_xFR01n5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Password"
+    }, {
+      "id" : "_xFR0135lEe6CKLVXBlzceQ",
+      "name" : "medicalod_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_PUE3QH59Ee6QVcLMKIQJDA",
+    "parameterList" : [ {
+      "id" : "_PUiKQn59Ee6QVcLMKIQJDA",
+      "name" : "medicaldw1_Database"
+    }, {
+      "id" : "_PUiKRX59Ee6QVcLMKIQJDA",
+      "name" : "medicaldw1_Schema"
+    }, {
+      "id" : "_PUiKQX59Ee6QVcLMKIQJDA",
+      "name" : "medicaldw1_Server"
+    }, {
+      "id" : "_PUiKRH59Ee6QVcLMKIQJDA",
+      "name" : "medicaldw1_Password"
+    }, {
+      "id" : "_PUiKRn59Ee6QVcLMKIQJDA",
+      "name" : "medicaldw1_Port"
+    }, {
+      "id" : "_PUiKR359Ee6QVcLMKIQJDA",
+      "name" : "medicaldw1_AdditionalParams"
+    }, {
+      "id" : "_PUiKQ359Ee6QVcLMKIQJDA",
+      "name" : "medicaldw1_Login"
+    } ]
+  } ]
+}

@@ -1,0 +1,29 @@
+{
+  "itemId" : "_MQNggIJVEe6Y6MoTPoQUtQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_xEkDIH5lEe6CKLVXBlzceQ",
+    "parameterList" : [ {
+      "id" : "_xFR00X5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Schema"
+    }, {
+      "id" : "_xFR00n5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Port"
+    }, {
+      "id" : "_xFR0035lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Database"
+    }, {
+      "id" : "_xFR01H5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Login"
+    }, {
+      "id" : "_xFR01X5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Server"
+    }, {
+      "id" : "_xFR01n5lEe6CKLVXBlzceQ",
+      "name" : "medicalod_Password"
+    }, {
+      "id" : "_xFR0135lEe6CKLVXBlzceQ",
+      "name" : "medicalod_AdditionalParams"
+    } ]
+  } ]
+}

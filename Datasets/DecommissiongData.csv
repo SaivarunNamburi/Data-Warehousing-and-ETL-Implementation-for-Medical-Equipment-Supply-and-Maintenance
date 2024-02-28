@@ -1,0 +1,201 @@
+﻿DecommissiongID,EquipmentID,DecommissiongDate,Reason
+DC001,3227,11/14/2023,Upgrade
+DC002,3622,8/31/2023,Upgrade
+DC003,3555,11/10/2023,Upgrade
+DC004,5449,7/14/2023,Safety concerns
+DC005,2235,7/15/2023,Equipment malfunction
+DC006,2847,8/22/2023,End of life
+DC007,3596,11/25/2023,End of life
+DC008,1921,2/16/2023,Upgrade
+DC009,4345,3/14/2023,End of life
+DC010,997,8/19/2023,End of life
+DC011,124,3/13/2023,Equipment malfunction
+DC012,5253,9/24/2023,Obsolete technology
+DC013,1901,12/1/2023,Equipment malfunction
+DC014,1892,10/18/2023,Equipment malfunction
+DC015,3557,10/30/2023,Equipment malfunction
+DC016,4332,5/18/2023,Upgrade
+DC017,1265,12/28/2023,Obsolete technology
+DC018,1519,5/23/2023,Upgrade
+DC019,5650,11/16/2023,End of life
+DC020,1899,10/23/2023,Equipment malfunction
+DC021,4018,10/12/2023,Upgrade
+DC022,3759,6/17/2023,Safety concerns
+DC023,4398,12/15/2023,Obsolete technology
+DC024,5691,1/18/2023,Obsolete technology
+DC025,4452,12/20/2023,Obsolete technology
+DC026,5707,5/26/2023,Safety concerns
+DC027,5442,7/23/2023,Obsolete technology
+DC028,4069,7/19/2023,End of life
+DC029,779,3/11/2023,Equipment malfunction
+DC030,4575,2/1/2023,Equipment malfunction
+DC031,5548,11/1/2023,Safety concerns
+DC032,2855,11/7/2023,Upgrade
+DC033,3704,3/14/2023,Obsolete technology
+DC034,2496,11/10/2023,Safety concerns
+DC035,4899,6/25/2023,Safety concerns
+DC036,5392,12/7/2023,Obsolete technology
+DC037,863,7/14/2023,End of life
+DC038,1659,1/5/2023,Upgrade
+DC039,4185,11/5/2023,Safety concerns
+DC040,2520,4/14/2023,Equipment malfunction
+DC041,2068,1/6/2023,End of life
+DC042,5759,12/2/2023,Obsolete technology
+DC043,2121,10/27/2023,Obsolete technology
+DC044,417,5/21/2023,End of life
+DC045,1235,9/14/2023,End of life
+DC046,1880,1/1/2024,End of life
+DC047,3661,3/30/2023,Upgrade
+DC048,589,5/20/2023,Equipment malfunction
+DC049,5297,4/25/2023,End of life
+DC050,3779,5/5/2023,End of life
+DC051,3599,12/27/2023,Equipment malfunction
+DC052,3006,12/7/2023,End of life
+DC053,4584,7/7/2023,Upgrade
+DC054,722,4/21/2023,End of life
+DC055,582,2/11/2023,Safety concerns
+DC056,1881,6/18/2023,Upgrade
+DC057,4463,3/17/2023,Upgrade
+DC058,2570,10/16/2023,Safety concerns
+DC059,2507,9/12/2023,Upgrade
+DC060,2322,1/11/2023,End of life
+DC061,5670,9/7/2023,Upgrade
+DC062,908,3/10/2023,Safety concerns
+DC063,5232,2/9/2023,End of life
+DC064,3989,4/27/2023,Upgrade
+DC065,5546,11/19/2023,Upgrade
+DC066,1727,9/7/2023,Equipment malfunction
+DC067,3307,6/16/2023,Equipment malfunction
+DC068,2504,11/15/2023,Equipment malfunction
+DC069,1246,10/14/2023,End of life
+DC070,2666,11/23/2023,Safety concerns
+DC071,4600,3/22/2023,Equipment malfunction
+DC072,4985,11/2/2023,Upgrade
+DC073,2041,9/21/2023,End of life
+DC074,2153,10/15/2023,Upgrade
+DC075,3222,4/13/2023,Upgrade
+DC076,3254,3/18/2023,Safety concerns
+DC077,2420,10/12/2023,Safety concerns
+DC078,3489,2/12/2023,Equipment malfunction
+DC079,4130,1/2/2023,Equipment malfunction
+DC080,2029,3/9/2023,Safety concerns
+DC081,2336,11/10/2023,Obsolete technology
+DC082,2000,8/25/2023,Equipment malfunction
+DC083,4762,12/19/2023,Equipment malfunction
+DC084,3066,10/7/2023,Obsolete technology
+DC085,4753,8/29/2023,Safety concerns
+DC086,2108,7/25/2023,End of life
+DC087,3823,9/20/2023,End of life
+DC088,2578,6/3/2023,Equipment malfunction
+DC089,4446,11/4/2023,Safety concerns
+DC090,1339,10/10/2023,Upgrade
+DC091,3845,5/30/2023,End of life
+DC092,1418,1/14/2023,Equipment malfunction
+DC093,3320,9/29/2023,Upgrade
+DC094,4688,6/30/2023,Safety concerns
+DC095,3648,1/29/2023,Upgrade
+DC096,4645,8/2/2023,Safety concerns
+DC097,3074,7/25/2023,End of life
+DC098,242,6/18/2023,Obsolete technology
+DC099,2115,5/28/2023,End of life
+DC100,3778,7/24/2023,Upgrade
+DC101,830,4/21/2023,Obsolete technology
+DC102,602,2/25/2023,Upgrade
+DC103,4357,5/26/2023,Safety concerns
+DC104,4896,6/21/2023,Upgrade
+DC105,2133,3/15/2023,Upgrade
+DC106,696,10/17/2023,Obsolete technology
+DC107,4854,9/4/2023,Upgrade
+DC108,4147,7/22/2023,Equipment malfunction
+DC109,5534,4/29/2023,Obsolete technology
+DC110,5570,9/16/2023,Safety concerns
+DC111,5631,12/4/2023,End of life
+DC112,5444,1/9/2023,Upgrade
+DC113,754,9/5/2023,End of life
+DC114,4272,1/6/2023,Upgrade
+DC115,488,3/9/2023,Equipment malfunction
+DC116,5829,4/16/2023,Obsolete technology
+DC117,2885,4/16/2023,End of life
+DC118,4049,10/2/2023,End of life
+DC119,2449,10/22/2023,End of life
+DC120,735,6/5/2023,Obsolete technology
+DC121,3268,5/27/2023,Safety concerns
+DC122,2396,3/5/2023,End of life
+DC123,4967,5/15/2023,Upgrade
+DC124,4656,7/20/2023,Safety concerns
+DC125,4270,6/6/2023,Obsolete technology
+DC126,689,5/3/2023,Equipment malfunction
+DC127,2388,7/29/2023,Safety concerns
+DC128,1810,11/7/2023,Obsolete technology
+DC129,1556,6/8/2023,Safety concerns
+DC130,1894,11/4/2023,End of life
+DC131,4403,4/10/2023,Safety concerns
+DC132,1309,11/16/2023,Obsolete technology
+DC133,451,5/18/2023,Upgrade
+DC134,1747,7/26/2023,Equipment malfunction
+DC135,1350,3/23/2023,Obsolete technology
+DC136,2759,11/22/2023,End of life
+DC137,942,6/26/2023,End of life
+DC138,3983,4/10/2023,Obsolete technology
+DC139,1568,4/8/2023,End of life
+DC140,5066,10/7/2023,Upgrade
+DC141,3323,12/4/2023,Upgrade
+DC142,5275,2/3/2023,Equipment malfunction
+DC143,5229,3/15/2023,End of life
+DC144,1882,10/26/2023,End of life
+DC145,2065,9/29/2023,Obsolete technology
+DC146,4433,10/5/2023,Upgrade
+DC147,3251,6/19/2023,Upgrade
+DC148,389,8/7/2023,Upgrade
+DC149,3734,7/26/2023,Safety concerns
+DC150,3716,12/5/2023,Obsolete technology
+DC151,4767,4/19/2023,Safety concerns
+DC152,3716,1/18/2023,Safety concerns
+DC153,1292,1/6/2023,End of life
+DC154,4561,9/7/2023,Upgrade
+DC155,3516,3/26/2023,Obsolete technology
+DC156,2106,5/24/2023,Upgrade
+DC157,4566,7/14/2023,Upgrade
+DC158,4143,10/16/2023,Obsolete technology
+DC159,5535,11/25/2023,End of life
+DC160,853,10/12/2023,End of life
+DC161,2818,6/19/2023,End of life
+DC162,3312,2/4/2023,End of life
+DC163,3098,3/19/2023,Equipment malfunction
+DC164,1448,8/7/2023,Obsolete technology
+DC165,3772,8/21/2023,Obsolete technology
+DC166,1951,10/17/2023,Upgrade
+DC167,846,2/8/2023,Equipment malfunction
+DC168,3279,11/13/2023,Safety concerns
+DC169,589,2/27/2023,Safety concerns
+DC170,4635,10/7/2023,Equipment malfunction
+DC171,4839,8/22/2023,End of life
+DC172,5253,5/7/2023,Equipment malfunction
+DC173,1370,8/14/2023,Equipment malfunction
+DC174,3300,12/25/2023,Upgrade
+DC175,3237,2/14/2023,Upgrade
+DC176,5341,12/21/2023,Upgrade
+DC177,5500,6/6/2023,Obsolete technology
+DC178,313,9/21/2023,Safety concerns
+DC179,3286,11/12/2023,Upgrade
+DC180,2297,3/7/2023,Obsolete technology
+DC181,5020,11/6/2023,Obsolete technology
+DC182,553,3/22/2023,Obsolete technology
+DC183,1782,2/24/2023,Obsolete technology
+DC184,3825,4/26/2023,Equipment malfunction
+DC185,2664,2/9/2023,Safety concerns
+DC186,4265,1/7/2023,Upgrade
+DC187,4920,12/16/2023,End of life
+DC188,3875,9/6/2023,Obsolete technology
+DC189,422,4/16/2023,End of life
+DC190,4916,1/29/2023,Obsolete technology
+DC191,5372,1/8/2023,End of life
+DC192,2452,7/5/2023,End of life
+DC193,5334,6/16/2023,Safety concerns
+DC194,1268,4/10/2023,Upgrade
+DC195,3431,2/12/2023,Safety concerns
+DC196,4616,11/16/2023,Equipment malfunction
+DC197,4268,9/28/2023,Obsolete technology
+DC198,3493,7/13/2023,Obsolete technology
+DC199,5978,11/10/2023,Obsolete technology
+DC200,1238,10/31/2023,End of life
